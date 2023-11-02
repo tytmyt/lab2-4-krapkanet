@@ -1,0 +1,334 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Study\\TournamentTracker\\MyTaskPlanner\\MyTaskPlanner.Domain.Logic.Tests\\MyTaskPlanner.Domain.Logic.Tests.csproj": {}
+  },
+  "projects": {
+    "E:\\Study\\TournamentTracker\\MyTaskPlanner\\MyTaskPlanner.DataAccess.Abstractions\\MyTaskPlanner.DataAccess.Abstractions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Study\\TournamentTracker\\MyTaskPlanner\\MyTaskPlanner.DataAccess.Abstractions\\MyTaskPlanner.DataAccess.Abstractions.csproj",
+        "projectName": "MyTaskPlanner.DataAccess.Abstractions",
+        "projectPath": "E:\\Study\\TournamentTracker\\MyTaskPlanner\\MyTaskPlanner.DataAccess.Abstractions\\MyTaskPlanner.DataAccess.Abstractions.csproj",
+        "packagesPath": "C:\\Users\\Denis\\.nuget\\packages\\",
+        "outputPath": "E:\\Study\\TournamentTracker\\MyTaskPlanner\\MyTaskPlanner.DataAccess.Abstractions\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Denis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\Study\\TournamentTracker\\MyTaskPlanner\\MyTaskPlanner.Domain.Models\\MyTaskPlanner.Domain.Models.csproj": {
+                "projectPath": "E:\\Study\\TournamentTracker\\MyTaskPlanner\\MyTaskPlanner.Domain.Models\\MyTaskPlanner.Domain.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Study\\TournamentTracker\\MyTaskPlanner\\MyTaskPlanner.DataAccess\\MyTaskPlanner.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Study\\TournamentTracker\\MyTaskPlanner\\MyTaskPlanner.DataAccess\\MyTaskPlanner.DataAccess.csproj",
+        "projectName": "MyTaskPlanner.DataAccess",
+        "projectPath": "E:\\Study\\TournamentTracker\\MyTaskPlanner\\MyTaskPlanner.DataAccess\\MyTaskPlanner.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Denis\\.nuget\\packages\\",
+        "outputPath": "E:\\Study\\TournamentTracker\\MyTaskPlanner\\MyTaskPlanner.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Denis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\Study\\TournamentTracker\\MyTaskPlanner\\MyTaskPlanner.DataAccess.Abstractions\\MyTaskPlanner.DataAccess.Abstractions.csproj": {
+                "projectPath": "E:\\Study\\TournamentTracker\\MyTaskPlanner\\MyTaskPlanner.DataAccess.Abstractions\\MyTaskPlanner.DataAccess.Abstractions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Study\\TournamentTracker\\MyTaskPlanner\\MyTaskPlanner.Domain.Logic.Tests\\MyTaskPlanner.Domain.Logic.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Study\\TournamentTracker\\MyTaskPlanner\\MyTaskPlanner.Domain.Logic.Tests\\MyTaskPlanner.Domain.Logic.Tests.csproj",
+        "projectName": "MyTaskPlanner.Domain.Logic.Tests",
+        "projectPath": "E:\\Study\\TournamentTracker\\MyTaskPlanner\\MyTaskPlanner.Domain.Logic.Tests\\MyTaskPlanner.Domain.Logic.Tests.csproj",
+        "packagesPath": "C:\\Users\\Denis\\.nuget\\packages\\",
+        "outputPath": "E:\\Study\\TournamentTracker\\MyTaskPlanner\\MyTaskPlanner.Domain.Logic.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Denis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\Study\\TournamentTracker\\MyTaskPlanner\\MyTaskPlanner.DataAccess.Abstractions\\MyTaskPlanner.DataAccess.Abstractions.csproj": {
+                "projectPath": "E:\\Study\\TournamentTracker\\MyTaskPlanner\\MyTaskPlanner.DataAccess.Abstractions\\MyTaskPlanner.DataAccess.Abstractions.csproj"
+              },
+              "E:\\Study\\TournamentTracker\\MyTaskPlanner\\MyTaskPlanner.DataAccess\\MyTaskPlanner.DataAccess.csproj": {
+                "projectPath": "E:\\Study\\TournamentTracker\\MyTaskPlanner\\MyTaskPlanner.DataAccess\\MyTaskPlanner.DataAccess.csproj"
+              },
+              "E:\\Study\\TournamentTracker\\MyTaskPlanner\\MyTaskPlanner.Domain.Logic\\MyTaskPlanner.Domain.Logic.csproj": {
+                "projectPath": "E:\\Study\\TournamentTracker\\MyTaskPlanner\\MyTaskPlanner.Domain.Logic\\MyTaskPlanner.Domain.Logic.csproj"
+              },
+              "E:\\Study\\TournamentTracker\\MyTaskPlanner\\MyTaskPlanner.Domain.Models\\MyTaskPlanner.Domain.Models.csproj": {
+                "projectPath": "E:\\Study\\TournamentTracker\\MyTaskPlanner\\MyTaskPlanner.Domain.Models\\MyTaskPlanner.Domain.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.5.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.69, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Study\\TournamentTracker\\MyTaskPlanner\\MyTaskPlanner.Domain.Logic\\MyTaskPlanner.Domain.Logic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Study\\TournamentTracker\\MyTaskPlanner\\MyTaskPlanner.Domain.Logic\\MyTaskPlanner.Domain.Logic.csproj",
+        "projectName": "MyTaskPlanner.Domain.Logic",
+        "projectPath": "E:\\Study\\TournamentTracker\\MyTaskPlanner\\MyTaskPlanner.Domain.Logic\\MyTaskPlanner.Domain.Logic.csproj",
+        "packagesPath": "C:\\Users\\Denis\\.nuget\\packages\\",
+        "outputPath": "E:\\Study\\TournamentTracker\\MyTaskPlanner\\MyTaskPlanner.Domain.Logic\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Denis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\Study\\TournamentTracker\\MyTaskPlanner\\MyTaskPlanner.DataAccess\\MyTaskPlanner.DataAccess.csproj": {
+                "projectPath": "E:\\Study\\TournamentTracker\\MyTaskPlanner\\MyTaskPlanner.DataAccess\\MyTaskPlanner.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Study\\TournamentTracker\\MyTaskPlanner\\MyTaskPlanner.Domain.Models\\MyTaskPlanner.Domain.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Study\\TournamentTracker\\MyTaskPlanner\\MyTaskPlanner.Domain.Models\\MyTaskPlanner.Domain.Models.csproj",
+        "projectName": "MyTaskPlanner.Domain.Models",
+        "projectPath": "E:\\Study\\TournamentTracker\\MyTaskPlanner\\MyTaskPlanner.Domain.Models\\MyTaskPlanner.Domain.Models.csproj",
+        "packagesPath": "C:\\Users\\Denis\\.nuget\\packages\\",
+        "outputPath": "E:\\Study\\TournamentTracker\\MyTaskPlanner\\MyTaskPlanner.Domain.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Denis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
